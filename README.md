@@ -16,6 +16,15 @@ client:
 $ python client.py
 ```
 
+## Git Upstream
+
+Keep your fork sync with the upstream
+
+```console
+$ git remote add upstream git@github.com:mariolpantunes/restaurant-p2p.git
+$ git pull upstream master
+```
+
 ## Authors
 
 * **Mário Antunes** - [mariolpantunes](https://github.com/mariolpantunes)
